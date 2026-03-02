@@ -1,0 +1,5 @@
+Hash Generator na oru program/tool.
+uses of Hash generator: A Hash Generator converts input data (like text or a password) into a fixed-length encrypted value called a hash.
+Password security : Websites do not store passwords in plain text.
+Instead, they store the hash value of the password.
+  
